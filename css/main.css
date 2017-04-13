@@ -1,0 +1,8 @@
+a:hover {
+  background-color: red;
+}
+button {
+  color: yellow;
+  border: 0;
+  padding: 0px 50px;
+}
